@@ -1,0 +1,57 @@
+# 📂 Dataset Description – Diwali Sales Data
+
+This dataset contains transactional sales records from a retail environment 
+during the Diwali festive season in India. It is used for exploratory data 
+analysis to understand customer purchasing behavior, product performance, and 
+market trends.
+
+## 📊 Dataset Summary
+
+- Total Records: 11,200+
+- Total Columns: 13
+- File Format: CSV
+- Size: ~1.3 MB
+
+## 🧾 Column Description
+
+| Column Name        | Description |
+|-------------------|-------------|
+| User_ID           | Unique customer identifier |
+| Cust_name         | Customer name |
+| Product_ID        | Unique product identifier |
+| Gender            | Customer gender |
+| Age Group         | Customer age group category |
+| Age               | Customer age (numeric) |
+| Nikah / Marital_Status | Marital status (0 = Unmarried, 1 = Married) |
+| State             | Customer state |
+| Zone              | Geographic region in India |
+| Occupation        | Customer profession |
+| Product_Category  | Category of purchased product |
+| Orders            | Number of units ordered |
+| Amount            | Purchase amount (₹) |
+
+---
+
+## 🧹 Data Cleaning Steps Performed
+
+- Removed null and unnecessary columns (`Status`, `unnamed1`)
+- Dropped missing values from `Amount`
+- Converted `Amount` column to integer type
+- Renamed `Marital_Status` to `Nikah`
+- Standardized formatting for analysis
+
+---
+
+## ⚠️ Data Disclaimer
+
+This dataset is used **strictly for learning and analytics practice**.  
+It does not contain any personally identifiable or sensitive information.
+
+---
+
+## 📥 Dataset File Included
+
+- `Diwali Sales Data.csv`
+
+If you use this dataset, please give appropriate reference to the project.
+
