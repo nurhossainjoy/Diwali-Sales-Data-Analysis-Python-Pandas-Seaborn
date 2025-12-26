@@ -1,18 +1,18 @@
-# 📁 Assets – Diwali Sales Analysis Project
+📁 Assets – Diwali Sales Analysis Project
 
 This folder contains supporting project assets, including documentation files
 and visualization screenshots generated during the analysis.
 
-## 📄 Documents Included
+📄 Documents Included
 
-- **Project_Report.pdf**  
+- Project_Report.pdf
   A consolidated PDF version of the analysis, including charts, insights,
   and conclusions.
 
-- **Notebook_Export.pdf**  
+- Notebook_Export.pdf
   Exported copy of the Jupyter Notebook for reference without execution.
 
-## 🖼️ Visualization Screenshots
+🖼️ Visualization Screenshots
 
 This folder also includes key charts and EDA visualizations used in the project, such as:
 
@@ -24,7 +24,7 @@ This folder also includes key charts and EDA visualizations used in the project,
 
 These images are useful for presentations, reporting, and portfolio highlights.
 
-## 🎯 Purpose of Assets
+🎯 Purpose of Assets
 
 The files in this directory are provided to:
 
@@ -32,7 +32,7 @@ The files in this directory are provided to:
 - Help reviewers interpret results quickly
 - Provide offline and presentation-friendly visual references
 
-## 🔎 Note
+🔎 Note
 
 All visualizations were generated using Python, Pandas, Matplotlib, and Seaborn
 as part of the exploratory data analysis process.
