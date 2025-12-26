@@ -1,1 +1,30 @@
+Sales Data Analysis During Diwali in India
 
+This Jupyter Notebook performs an exploratory data analysis (EDA) on Diwali
+sales data to identify customer purchasing patterns, product performance
+trends, and key business insights across different demographic segments.
+
+The analysis includes data cleaning, preprocessing, descriptive statistics,
+and visualization-driven insights using Python, Pandas, Matplotlib, and Seaborn.
+
+🎯 Objectives of the Analysis
+
+- Understand customer demographics and purchasing behaviour
+- Compare spending across gender, age groups, and marital status
+- Identify high-performing states, occupations, and customer segments
+- Analyze top-selling product categories and product IDs
+- Generate insights to support retail business decision-making
+
+🧰 Tools & Libraries
+
+- Python, Jupyter Notebook  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+
+📊 Key Insights Covered
+
+- Gender-wise and age-group-wise spending trends  
+- State-wise and occupation-wise sales contribution  
+- Marital status vs purchase behaviour  
+- Product category sales performance  
+- Top 10 products by amount and order volume 
